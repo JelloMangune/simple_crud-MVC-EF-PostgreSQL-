@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72900201-77bd-4751-9e28-172d70a72e1e": {
+      "ProjectGuid": "72900201-77bd-4751-9e28-172d70a72e1e",
+      "DisplayName": "MVC-EF-CRUD-PostgreSQL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
